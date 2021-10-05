@@ -1,0 +1,7 @@
+COIN_NAME="enzo"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="enzod"
+COIN_CLI="enzo-cli"
+COIN_FOLDER="/root/.enzo"
+COIN_CONFIG="enzo.conf"
+COIN_SERVICE="enzo.service"
